@@ -1,0 +1,6 @@
+Citizen.CreateThread(function()
+ AddTextEntry('riot', 'BlackBetty')
+ --AddTextEntry('modelname', 'ingamename')
+ --AddTextEntry('modelname', 'ingamename')
+ --AddTextEntry('modelname', 'ingamename')
+end)
