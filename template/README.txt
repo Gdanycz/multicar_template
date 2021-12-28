@@ -1,21 +1,21 @@
 Gdany car template
-Web: gdany.eu
+Website: gdany.eu
 
-do složky stream soubory: .ytd .ytf
-do složky data: modelname vozu a do ní soubory od vozu (.meta)
+to the stream files folder: .ytd .ytf
+into the data folder: modelname of the car and into it the files from the car (.meta)
 
-ve vehicles.meta najít:
+in vehicles.meta find:
 
 <gameName>riot</gameName>
 
-a změnit na modelname stejně jako je zde:
+and change it to modelname as it is here:
 
 <modelName>riot</modelName>
 
-a poté v vehicle_names.lua:
+and then in vehicle_names.lua:
 AddTextEntry('modelname', 'ingamename')
 
-a přepíšeme modelname, který jsme si nastavili v gameName a modelName a do ingamename si pojmenujeme, 
-jak se má ukazovat název vozu ve hře
+and overwrite the modelname we set in gameName and modelName and name the ingame,
+how the car name should appear in the game
 
 AddTextEntry('riot', 'BlackBetty')

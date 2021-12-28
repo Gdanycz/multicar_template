@@ -1,5 +1,9 @@
 fx_version 'adamant'
 game 'gta5'
+
+author 'Gdany#2835'
+description 'Template for adding multiple cars to one resource'
+version '1.0.0'
  
 files {
     'data/**/*.meta'

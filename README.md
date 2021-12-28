@@ -1,2 +1,2 @@
 # multicar_template
-Template pro přidávání více aut do jednoho resource
+Template for adding multiple cars to one resource
